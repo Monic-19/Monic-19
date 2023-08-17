@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Monic </h1>
 <br>
-<h3 align="center">A passionate frontend developer.<br> 3rd year student at Jaypee Institute of Information Technology.</h3>
+<h3 align="center">A passionate Full Stack developer.<br> 3rd year student at Jaypee Institute of Information Technology.</h3>
 <br><br>
 <img align="right" alt="Coding" width="400" src="https://technical.ly/wp-content/uploads/2017/09/getcode.gif">
 
